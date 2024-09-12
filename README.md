@@ -42,6 +42,12 @@
 
 <br>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ea3124&show_icons=true&theme=transparent" />&nbsp
+</div>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="leesj6717@gmail.com">
