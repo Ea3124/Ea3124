@@ -7,14 +7,14 @@
 <!--내용 부분-->
 
 <div align="auto">
-  <h3 align="center">✨ Tech Stack ✨</h3>
-  <div align="center">
+  <h3 align="left">✨ Tech Stack ✨</h3>
+  <div align="left">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   </div>
-  <h3 align="center">📚 Still Studying 📚</h3>
-  <div align="center">
+  <h3 align="left">📚 Still Studying 📚</h3>
+  <div align="left">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   </div>
 </div>
@@ -23,7 +23,7 @@
 
 <br>
 
-<div align="center">
+<div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=Ea3124&show_icons=true&theme=transparent" />&nbsp
 
 
@@ -36,8 +36,8 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h3 align="left">📫 Contact 📫</h3>
+<div align="left">
   <a href="leesj6717@gmail.com">
     <img
       src="https://img.shields.io/badge/leesj6717@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
