@@ -27,11 +27,11 @@
 
 <br>
 
-<div align="right">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ea3124&show_icons=true&theme=transparent" />&nbsp
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ea3124&layout=compact)](https://github.com/Ea3124)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ea3124?theme=light&font=Hind)
 
 </div>
 
